@@ -1,0 +1,1 @@
+<?php echo (int)$_GET["a"] + (int)$_GET["b"]; ?>
